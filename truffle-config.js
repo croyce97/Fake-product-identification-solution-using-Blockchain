@@ -4,7 +4,7 @@
  * compilation and testing. Uncomment the ones you need or modify
  * them to suit your project as necessary.
  *
- * More information about configuration can be found at:
+ * More information about configuration can be found at :
  *
  * trufflesuite.com/docs/advanced/configuration
  *
