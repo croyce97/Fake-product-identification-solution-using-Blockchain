@@ -4,7 +4,7 @@
     {
       "inputs": [],
       "name": "last_completed_migration",
-      "outputs": [
+      "outputs":[
         {
           "internalType": "uint256",
           "name": "",
